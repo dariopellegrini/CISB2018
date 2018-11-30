@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CISB2018</string>
+
+    <!--Menu-->
+    <string name="menu_schedule">Programma</string>
+    <string name="menu_favourites">Preferiti</string>
+    <string name="menu_venue">Sede</string>
+
+    <!--Titles-->
+    <string name="schedule">Programma</string>
+    <string name="favourites">Preferiti</string>
+    <string name="venue">Sede</string>
+
+    <!--Descriptions-->
+    <string name="speaker">Speaker</string>
+    <string name="talk">Talk</string>
+
+    <!--Venue-->
+    <string name="location">Aula Consiliare\nVia Branze, 38, 25123 Brescia BS</string>
+    <string name="venue_title">CISB2018 - Student Branch IEEE</string>
+    <string name="venue_content">La prima conferenza del IEEE Student Branch di Brescia\n\nPer tutta la giornata di mercoledì 5 Dicembre 2018, si terrà presso l\'<b>Aula Consiliare dell\'Università egli Studi di Brescia sede ingegneria, Via Branze 28</b>, la prima conferenza dello Student Branch IEEE di Brescia.\n\nAperta a tutti e solo gli studenti dell\'Università degli Studi di Brescia, la conferenza è l\'occasione giusta per incontrare gli studenti soci e vivere l\'esperienza dello Student Branch IEEE, all\'insegna della ricerca e dell\'acquisizione di conoscenza e metodologie da integrare nell\'esperienza accademica.</string>
+
+    <string name="loading">Caricamento</string>
+    <string name="retry">Riprova</string>
+    <string name="something_went_wrong">Ops&#8230;qualcosa è andato storto</string>
+    <string name="no_content_found">Nessun contenuto trovato</string>
+    <string name="no_favourite">Non è stato trovato nessun preferito.\nLe talk aggiunte ai preferiti verranno visualizzate qui</string>
+
+</resources>
